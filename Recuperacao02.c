@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdbool.h>
 
-// By samuel Correia
+// By samuel Correia Pedrosa
 
 typedef struct s_int_Array
 {
